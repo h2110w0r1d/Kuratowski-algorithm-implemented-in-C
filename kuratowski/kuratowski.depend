@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1657382731 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\adjlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AdjList.h"
+	"TarjanDFS.h"
+
+1657118493 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+
+1656672169 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\stack.h
+
+1657381684 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\main.c
+	"AdjList.h"
+	"stack.h"
+	"TarjanDFS.h"
+	"JohnsonCycleAlgo.h"
+	"LinkList.h"
+	"step2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1657382586 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\tarjandfs.c
+	"stack.h"
+	"AdjList.h"
+	"TarjanDFS.h"
+	"LinkList.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1657383445 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\adjlist.h
+	"LinkList.h"
+
+1657212696 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\tarjandfs.h
+	"LinkList.h"
+	"AdjList.h"
+	"stack.h"
+	"AdjList.h"
+
+1656971417 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\linklist.c
+	"stdio.h"
+	"LinkList.h"
+
+1656968061 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\linklist.h
+
+1657382879 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\step2.c
+	"stack.h"
+	"AdjList.h"
+	"TarjanDFS.h"
+	"LinkList.h"
+	"JohnsonCycleAlgo.h"
+	"step2.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1657212481 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\step2.h
+
+1657228368 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\johnsoncyclealgo.h
+	"AdjList.h"
+	"LinkList.h"
+	"TarjanDFS.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1657384357 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski\johnsoncyclealgo.c
+	"JohnsonCycleAlgo.h"
+	"AdjList.h"
+	"LinkList.h"
+	"TarjanDFS.h"
+
+1657382731 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\adjlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AdjList.h"
+	"TarjanDFS.h"
+
+1657383445 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\adjlist.h
+	"LinkList.h"
+
+1656968061 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\linklist.h
+
+1657212696 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\tarjandfs.h
+	"LinkList.h"
+	"AdjList.h"
+	"stack.h"
+	"AdjList.h"
+
+1656672169 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\stack.h
+
+1657384357 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\johnsoncyclealgo.c
+	"JohnsonCycleAlgo.h"
+	"AdjList.h"
+	"LinkList.h"
+	"TarjanDFS.h"
+
+1657228368 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\johnsoncyclealgo.h
+	"AdjList.h"
+	"LinkList.h"
+	"TarjanDFS.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1656971417 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\linklist.c
+	"stdio.h"
+	"LinkList.h"
+
+1657381684 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\main.c
+	"AdjList.h"
+	"stack.h"
+	"TarjanDFS.h"
+	"JohnsonCycleAlgo.h"
+	"LinkList.h"
+	"step2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1657212481 c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\step2.h
+
+1657118493 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+
+1657382879 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\step2.c
+	"stack.h"
+	"AdjList.h"
+	"TarjanDFS.h"
+	"LinkList.h"
+	"JohnsonCycleAlgo.h"
+	"step2.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1657382586 source:c:\users\wyy\desktop\summer\program\codeblock_proj\kuratowski_algorithm_in_c\kuratowski\tarjandfs.c
+	"stack.h"
+	"AdjList.h"
+	"TarjanDFS.h"
+	"LinkList.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
