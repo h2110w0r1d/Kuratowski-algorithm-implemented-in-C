@@ -11,12 +11,16 @@ The project was developed using Code::Blocks.
 
 Please input one graph each time. The vertex of the imported graph should start from 0. The total number of vertexes should be no more than 20. Otherwise, the total number of vertexes allowed can be modified by changing the value of variable - ‘MAX’ in AdjLisr.h, but the total number of cycles needs to be stored may increase correspondingly (adjust the variable – ‘MAX2’  in JohnsonCycleAlgo.h to adjust the number of cycles can be stored)
 
-‘MAX’ = the total number of vertexes allowed
+
+‘MAX’ = the total number of vertexes allowed 
+
 ‘MAX2’ = the total number of cycles needs to be stored
 
 The program output the planarity of a graph, or a subgraph which is subdivision to K3,3 or K5 if the graph is non-planar, the vertex of the subgraph is renumbered when the program is running and starts from 1.
 
 i.e. 
+
 Original vertex	0	1	2	…
+
 Renumbered vertex	1	2	3	…
 
